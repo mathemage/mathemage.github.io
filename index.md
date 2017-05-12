@@ -1,5 +1,7 @@
 # Welcome to **mathemage**'s personal webpage
 
+My presence on the Internet (you may also use icons in the blog's footer, i.e. the bottom of all pages):
+
 * [e-mail](mathemage@gmail.com)
 * [previous personal website](https://sites.google.com/site/mathemage/)
 * [SlideShare](https://www.slideshare.net/KarelHa1)
@@ -15,6 +17,7 @@
 * [Last.fm](https://www.last.fm/user/deathsongbird)
 * [GoodReads](https://www.goodreads.com/user/show/12203203-mathemage)
 * [PayPal](https://paypal.me/mathemage)
+
 
 Personality type:
 * [INTP](https://www.wikiwand.com/en/INTP) a.k.a. [*the architect*](http://personalityjunkie.com/the-intp/)

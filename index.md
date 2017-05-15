@@ -1,4 +1,4 @@
-# Welcome to **mathemage**'s personal webpage
+# Welcome to **mathemage**'s personal website
 
 My presence on the Internet (you may also use icons in the blog's footer, i.e. the bottom of all pages):
 

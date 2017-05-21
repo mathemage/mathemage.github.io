@@ -9,7 +9,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [LinkedIn](https://www.linkedin.com/in/mathemage/)
 * [Twitter](https://twitter.com/mathemage)
 * [GitHub](https://github.com/mathemage/)
-* [Stack Overflow](http://stackoverflow.com/users/story/7972708?view=Timeline)
+* [Stack Overflow](http://stackoverflow.com/story/mathemage)
 * [Quora](https://www.quora.com/profile/Karel-Ha)
 * [Codeforces](http://codeforces.com/profile/mathemage)
 * [TopCoder](https://www.topcoder.com/members/mathemage/)

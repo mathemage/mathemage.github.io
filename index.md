@@ -3,13 +3,13 @@
 My presence on the Internet (you may also use icons in the blog's footer, i.e. the bottom of all pages):
 
 * [e-mail](mathemage@gmail.com)
-* [previous personal website](https://sites.google.com/site/mathemage/)
-* [SlideShare](https://www.slideshare.net/KarelHa1)
 * [Facebook](https://www.facebook.com/mathemage)
 * [LinkedIn](https://www.linkedin.com/in/mathemage/)
-* [Twitter](https://twitter.com/mathemage)
 * [GitHub](https://github.com/mathemage/)
 * [Stack Overflow](http://stackoverflow.com/story/mathemage)
+* [Twitter](https://twitter.com/mathemage)
+* [Devpost](https://devpost.com/mathemage)
+* [SlideShare](https://www.slideshare.net/KarelHa1)
 * [Quora](https://www.quora.com/profile/Karel-Ha)
 * [Codeforces](http://codeforces.com/profile/mathemage)
 * [TopCoder](https://www.topcoder.com/members/mathemage/)
@@ -17,7 +17,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [Last.fm](https://www.last.fm/user/deathsongbird)
 * [GoodReads](https://www.goodreads.com/user/show/12203203-mathemage)
 * [PayPal](https://paypal.me/mathemage)
-
+* [previous personal website](https://sites.google.com/site/mathemage/)
 
 Personality type:
 * [INTP](https://www.wikiwand.com/en/INTP) a.k.a. [*the architect*](http://personalityjunkie.com/the-intp/)

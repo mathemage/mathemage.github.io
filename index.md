@@ -22,4 +22,4 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 
 Personality type:
 * [INTP](https://www.wikiwand.com/en/INTP) a.k.a. [*the architect*](http://personalityjunkie.com/the-intp/)
-* [ENTP-T](https://www.16personalities.com/entp-personality) a.k.a. *[the](https://www.16personalities.com/entp-strengths-and-weaknesses) [ultimate](https://www.16personalities.com/entp-careers) [devil's](https://www.16personalities.com/entp-friends) [advocate](https://www.16personalities.com/entp-parents)*
+* [ENTP](https://www.16personalities.com/entp-personality)-[T](http://www.humanmetrics.com/personality/entp) a.k.a. *[the](https://www.16personalities.com/entp-strengths-and-weaknesses) [ultimate](https://www.16personalities.com/entp-careers) [devil's](https://www.16personalities.com/entp-friends) [advocate](https://www.16personalities.com/entp-parents)*

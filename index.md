@@ -7,6 +7,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [Facebook](https://www.facebook.com/mathemage)
 * [LinkedIn](https://www.linkedin.com/in/mathemage/)
 * [GitHub](https://github.com/mathemage/)
+* [GitLab](https://gitlab.com/mathemage)
 * [Stack Overflow](http://stackoverflow.com/story/mathemage)
 * [Twitter](https://twitter.com/mathemage)
 * [Devpost](https://devpost.com/mathemage)

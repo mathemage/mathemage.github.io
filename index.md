@@ -22,6 +22,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [GoodReads](https://www.goodreads.com/user/show/12203203-mathemage)
 * [PayPal](https://paypal.me/mathemage)
 * Litecoin wallet: LKMtXGZEWjvWAognq8TZTWx84PmMXGLdPp
+* [public PGP key](./attachments/gpg2-public-key-mathemage@gmail.com.txt)
 * [previous personal website](https://sites.google.com/site/mathemage/)
 
 Personality type:

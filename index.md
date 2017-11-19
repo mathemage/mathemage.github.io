@@ -15,6 +15,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [Quora](https://www.quora.com/profile/Karel-Ha)
 * [Codeforces](http://codeforces.com/profile/mathemage)
 * [TopCoder](https://www.topcoder.com/members/mathemage/)
+* [Gravatar](https://en.gravatar.com/mathemage)
 * [YouTube](https://www.youtube.com/user/mathemage)
 * [Couchsurfing](https://www.couchsurfing.com/people/mathemage)
 * [Last.fm](https://www.last.fm/user/deathsongbird)

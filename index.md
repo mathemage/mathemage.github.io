@@ -21,6 +21,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [Last.fm](https://www.last.fm/user/deathsongbird)
 * [GoodReads](https://www.goodreads.com/user/show/12203203-mathemage)
 * [PayPal](https://paypal.me/mathemage)
+* Litecoin wallet: LKMtXGZEWjvWAognq8TZTWx84PmMXGLdPp
 * [previous personal website](https://sites.google.com/site/mathemage/)
 
 Personality type:

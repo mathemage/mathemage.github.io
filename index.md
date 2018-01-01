@@ -12,6 +12,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [Stack Overflow](http://stackoverflow.com/story/mathemage)
 * [Twitter](https://twitter.com/mathemage)
 * [Devpost](https://devpost.com/mathemage)
+* [Medium](https://medium.com/@mathemage)
 * [Kaggle](https://www.kaggle.com/KarelHa)
 * [SlideShare](https://www.slideshare.net/KarelHa1)
 * [Quora](https://www.quora.com/profile/Karel-Ha)

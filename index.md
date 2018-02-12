@@ -5,6 +5,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [CV](https://www.sharelatex.com/project/51d487dab2a1f53f36f9341e/output/output.pdf)
 * [e-mail](mailto:mathemage@gmail.com)
 * [Calendly](https://calendly.com/mathemage)
+* [Doodle](https://doodle.com/mathemage)
 * [previous personal website](https://sites.google.com/site/mathemage/)
 * [Facebook](https://www.facebook.com/mathemage)
 * [LinkedIn](https://www.linkedin.com/in/mathemage/)

@@ -7,6 +7,7 @@ My presence on the Internet (you may also use icons in the blog's footer, i.e. t
 * [Calendly](https://calendly.com/mathemage)
 * [Doodle](https://doodle.com/mathemage)
 * [previous personal website](https://sites.google.com/site/mathemage/)
+* [Google Scholar](https://scholar.google.cz/citations?hl=en&user=L9ZF66IAAAAJ)
 * [Facebook](https://www.facebook.com/mathemage)
 * [LinkedIn](https://www.linkedin.com/in/mathemage/)
 * [GitHub](https://github.com/mathemage/)

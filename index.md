@@ -2,7 +2,7 @@
 
 My presence on the Internet (you may also use icons in the blog's footer, i.e. the bottom of all pages):
 
-* [CV](https://v2.overleaf.com/project/51d487dab2a1f53f36f9341e/output/output.pdf)
+* [CV](https://www.dropbox.com/s/qdy9aiwq3x302e9/cv.pdf?dl=0)
 * [e-mail](mailto:mathemage@gmail.com)
 * [Calendly](https://calendly.com/mathemage)
 * [Doodle](https://doodle.com/mathemage)

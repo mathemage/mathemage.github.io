@@ -2,6 +2,7 @@
 
 My presence on the Internet (you may also use icons in the blog's footer, i.e. the bottom of all pages):
 
+* [business card](http://q-r.to/bal4ks)
 * [CV](https://www.dropbox.com/s/qdy9aiwq3x302e9/cv.pdf?dl=0)
 * [e-mail](mailto:mathemage@gmail.com)
 * [Calendly](https://calendly.com/mathemage)

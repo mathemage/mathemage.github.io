@@ -3,7 +3,7 @@
 My presence on the Internet (you may also use icons in the blog's footer, i.e. the bottom of all pages):
 
 * [business card](http://q-r.to/bal4ks)
-* [CV (academic)](https://www.dropbox.com/s/40r7o6mee8ru6dd/Academic_CV.pdf?dl=0)
+* [CV (academic)](https://www.dropbox.com/s/ptkyh1wbftyxaiq/Academic_CV.pdf?dl=0)
 * [CV (industry)](https://www.dropbox.com/s/qdy9aiwq3x302e9/cv.pdf?dl=0)
 * [e-mail](mailto:mathemage@gmail.com)
 * my availability at [Google Calendar](https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23A79B8E&ctz=Europe%2FPrague&src=bWF0aGVtYWdlQGdtYWlsLmNvbQ&src=MDRoMzA4bThlM2lyc251NDBjMTJvaWxudDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=OG8wZHJldmphZXNwaWQybDRhYmlwM2ZzNm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=aXVpcXEwaThnM2ZmcWZnaDhzcXBvbW9yYXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZnZkdWMwazQ0Z2wzYmIxdXM4bzF0bm1jdjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ajVjcjExdTlzY2hldDgzbThlMW5tYjRjMWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=dmMwdmU1cGhtcGFmMjhtcG8yODBnbDFvcWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23000000&color=%23F6BF26&color=%233F51B5&color=%238E24AA&color=%23E67C73&color=%237CB342&color=%23E4C441&showTitle=1&showTabs=1&showCalendars=0&title=Karel%20Ha%20%3Cmathemage%40gmail.com%3E&mode=WEEK)

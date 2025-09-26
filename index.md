@@ -2,7 +2,7 @@
 
 My presence on the Internet (you may also use icons in the blog's footer, i.e. the bottom of all pages):
 
-* [business card](http://q-r.to/bal4ks)
+* [GitHub Portfolio](https://gist.github.com/mathemage/09545f9158d49f52b2d5ad89cd761bdf)
 * [CV (academic)](https://www.dropbox.com/s/hte483znv431n50/CV_Karel_Ha.pdf?dl=0)
 * [CV (industry)](https://www.dropbox.com/s/hte483znv431n50/CV_Karel_Ha.pdf?dl=0)
 * [e-mail](mailto:mathemage@gmail.com)
